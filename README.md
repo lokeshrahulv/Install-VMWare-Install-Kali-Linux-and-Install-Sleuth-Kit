@@ -14,7 +14,6 @@ To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Ki
 
 ## Step 2: Install Kali Linux on VirtualBox
 
-### 🔗 Download Kali Linux VM: Click Here
 ## Installation Steps:
    1.Download the Kali Linux ISO file.Open VirtualBox, click New, enter "Kali Linux", select Type: Linux and Version: Debian (64-bit).
    
@@ -27,9 +26,7 @@ To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Ki
    5.Choose Partitioning Method (Guided - Use Entire Disk) and wait for installation to complete.
 
 ## Step 3: Install Sleuth Kit (CLI-based Forensic Tools)
-
-🔗 Download Sleuth Kit: Click Here
-## Installation Steps:
+### Installation Steps:
    1.Download the Windows ZIP package from the official website.
    
    2.Extract the ZIP folder and move it to a suitable directory (e.g., C:\sleuthkit).
