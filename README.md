@@ -1,6 +1,6 @@
 # Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
- Reg.No : 212222100024
- Name : Lokesh Rahul V V
+### Reg.No : 212222100024
+### Name : Lokesh Rahul V V
 # AIM:
 To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Kit for digital forensic analysis.
 # DESIGN STEPS:
